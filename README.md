@@ -32,15 +32,14 @@ Analyzing how various factors such as weather and traffic affect food delivery d
 ---
 
 ## 📈 Visualizations
+### 1. 📦 Delivery Time vs Weather Conditions  
+<img src="assets/weather_plot.png" width="600">
 
-### 1. 📦 Delivery Time vs Weather Conditions
-<img src="https://github.com/your-username/food-delivery-analysis/assets/weather_plot.png" width="600">
+### 2. 🚗 Delivery Time by Traffic  
+<img src="assets/traffic_plot.png" width="600">
 
-### 2. 🚗 Delivery Time by Traffic
-<img src="https://github.com/your-username/food-delivery-analysis/assets/traffic_plot.png" width="600">
-
-### 3. ⏱️ Distribution of Delivery Durations
-<img src="https://github.com/your-username/food-delivery-analysis/assets/duration_hist.png" width="600">
+### 3. ⏱️ Distribution of Delivery Durations  
+<img src="assets/duration_hist.png" width="600">
 
 ---
 
